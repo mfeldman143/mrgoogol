@@ -1,3 +1,7 @@
+git remote set-url origin git@https://github.com/mfeldman143/mrgoogol.git
+
+
+
 <p align="center">
 
 <a href="https://slackin-pbfjhfxnsa.now.sh"><img src="https://slackin-pbfjhfxnsa.now.sh/badge.svg"></a>
